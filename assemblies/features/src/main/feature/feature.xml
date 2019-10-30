@@ -98,4 +98,8 @@
     <bundle>mvn:pentaho/hadoop-cluster-ui/${project.version}</bundle>
   </feature>
 
+  <feature name="driver-manager" version="1.0">
+    <bundle>mvn:org.pentaho/driver-manager/${project.version}</bundle>
+  </feature>
+
 </features>
