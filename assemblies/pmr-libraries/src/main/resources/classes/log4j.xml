@@ -71,6 +71,14 @@
     <priority value="INFO"/>
   </category>
 
+    <category name="org.pentaho.metaverse.graph.GraphCatalogWriter">
+        <priority value="INFO"/>
+    </category>
+
+    <category name="org.pentaho.metaverse.graph.catalog.CatalogLineageClient">
+        <priority value="INFO"/>
+    </category>
+
    <!-- ======================= -->
    <!-- Setup the Root category -->
    <!-- ======================= -->
